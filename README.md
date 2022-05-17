@@ -2,7 +2,7 @@
 <h1 align="center">Hi ✨, I'm Maribel G.</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🪷 All of my projects are available at <a href="#">My portfolio</a>.
+- 🪷 All of my projects are available at <a href="https://maribel-gallegos.netlify.app">My portfolio</a>.
 
 - 📩 How to reach me **maribel.mgallegosg@gmail.com**
 

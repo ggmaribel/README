@@ -4,7 +4,7 @@
 
 - 🪷 All of my projects are available at <a href="">My portfolio</a>.
 
-- 📩 How to reach me ** **
+- 📩 How to reach me ** ggmaribelg@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

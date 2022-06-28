@@ -6,6 +6,8 @@
 
 - 📩 How to reach me ** ggmaribelg@gmail.com **
 
+[![Maribel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggmaribel&show_icons=true&theme=tokyonight)](https://github.com/ggmaribel/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ggmaribel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggmaribel_" height="30" width="40" /></a>

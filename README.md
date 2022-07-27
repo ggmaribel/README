@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggmaribel&layout=compact&theme=tokyonight)](https://github.com/ggmaribel/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggmaribel&repo=github-readme-stats&theme=tokyonight)](https://github.com/ggmaribel/github-readme-stats)
-
 [![Maribel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggmaribel&show_icons=true&theme=tokyonight)](https://github.com/ggmaribel/github-readme-stats)
 
 

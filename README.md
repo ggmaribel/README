@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/M1uLzFD.gif" alt="banner">
+<kbd><img src="https://i.imgur.com/M1uLzFD.gif" alt="banner"></kbd>
 <h1 align="center">Hi, I'm Maribel G.</h1>
 <h3 align="center">Software Engineer</h3>
 
